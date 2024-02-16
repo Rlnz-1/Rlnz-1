@@ -10,7 +10,7 @@ Bem...por onde começar...?
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
-## Estou aprendendo
+## Estou aprendendo:
 
 ## Contatos:
 
@@ -25,5 +25,3 @@ Bem...por onde começar...?
     <img loading = "lazy" height="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Rlnz-1&layout=compact&langs_count=7&theme=dracula"/>
     <img loading = "lazy" height="180em" src= "https://github-readme-stats.vercel.app/api?username=Rlnz-1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-![Snake animation](https://github.com/Rlnz-1/Rlnz-1/blob/output/github-contribution-grid-snake.svg)
